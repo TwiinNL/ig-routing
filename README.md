@@ -1,5 +1,14 @@
-# TARouting
+# ig-routing
 
+FHIR R4 implementation guide for the technical specification of TA Routing, part of the technical core of the Twiin Afsprakenstelsel (https://www.twiin.nl/taroutering).
+
+- Package id: `nl.twiin.fhir.r4.routing`
+- Canonical: https://fhir.twiin.nl/ig/routing
+- FHIR version: 4.0.1
+- Version: 0.3.0
+- Publisher: Twiin
+
+Built with [SUSHI](https://fshschool.org/docs/sushi/) and the HL7 IG Publisher.
 
 ## Build
 
